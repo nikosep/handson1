@@ -23,7 +23,7 @@ public String category(float performance){
 		return "Good";
 	}
 	else if ((performance>80)&&(performance<=89)){
-		return "Very Good";
+		return "Very Very Good";
 	}
 	else if ((performance>90)&&(performance<=100))
 	{
@@ -31,7 +31,7 @@ public String category(float performance){
 	}
 	else
 	{
-		return "ERROR";
+		return "ERROR CHANGE ";
 	
 	}
 	
